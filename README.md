@@ -153,7 +153,7 @@ int main(){
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-10-20 083036.png>)
+![alt text](<Image/Screenshot 2025-10-20 083036.png>)
 
 ## RESULT:
 Thus the program to find the sum of odd digits using for loop has been executed successfully.
@@ -203,7 +203,7 @@ void fact() {
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-10-20 085309.png>)
+![alt text](<Image/Screenshot 2025-10-20 085309.png>)
 
 ## RESULT:
 The program correctly computes the factorial of a given number using a separate function and displays the result.
